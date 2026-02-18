@@ -23,8 +23,7 @@ This project focuses on predicting whether a telecom customer is likely to leave
 -Confusion matrix
 
 ## Outcome
-The results from random forest are very similar to that of the logistic regression 
-SVM showed the highest Accuracy compared to all the model
+The results from random forest are very similar to that of the logistic regression. SVM showed the highest Accuracy compared to all the model.
 
 ## Author 
 Keerthana
