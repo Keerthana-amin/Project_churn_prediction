@@ -1,7 +1,7 @@
 ## Telecom Customer Churn Prediction
 
 ## Project Overview
-This project focuses on predicting whether a telecom customer is likely to leave a subscription-based service using the robust Machine learning techiques. This helps businesses reduce revenue loss by identifying customers who are likely to cancel thier subscription
+This project focuses on predicting whether a telecom customer is likely to leave a subscription-based service using the robust Machine learning techniques. This helps businesses reduce revenue loss by identifying customers who are likely to cancel thier subscription
 
 ## Technologies Used
 -Python
@@ -16,14 +16,13 @@ This project focuses on predicting whether a telecom customer is likely to leave
 -SVM
 -ADA Boost
 -XG Boost
-#This models are trained to Classify the Customer Churn
 
-## Evaluation Matrics
+## Evaluation Metrics
 -Accuracy
 -Confusion matrix
 
 ## Outcome
-The results from random forest are very similar to that of the logistic regression. SVM showed the highest Accuracy compared to all the model.
+Among all five models evaluated, SVM achieved the highest accuracy of 82%, followed by AdaBoost (81.5%), XGBoost (80.9%), Random Forest (80.8%), and Logistic Regression (80.7%) — confirming SVM as the best model for classifying customer churn in this dataset
 
 ## Author 
 Keerthana
